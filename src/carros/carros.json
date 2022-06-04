@@ -16,8 +16,8 @@
             "categoria": "Hatch",
             "cor": "Branco",
             "img_principal": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/UnoEvoWay1.0.webp" ,
-            "img_impeifeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Piques%20Para%20Lama%20Esquerdo%20Lateral%20Esquerda.jpg",
-            "img_impeifeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Risco%20com%20dano%20Para%20Choque%20Dianteiro%20Dianteira.jpg",
+            "img_imperfeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Piques%20Para%20Lama%20Esquerdo%20Lateral%20Esquerda.jpg",
+            "img_imperfeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Risco%20com%20dano%20Para%20Choque%20Dianteiro%20Dianteira.jpg",
             "img_destaque01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Dire%C3%A7%C3%A3o%20el%C3%A9trica.jpg",
             "img_destaque02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/UnoEvoWay1.0/Computador%20de%20bordo.jpg"
         },
@@ -38,8 +38,8 @@
             "categoria": "Hatch",
             "cor": "Prata",
             "img_principal": "https://raw.githubusercontent.com/cybermaique/rest-api-cars-deploy-aws-ec2/master/src/imagens/KaSe1.0.webp",
-            "img_impeifeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/risco-com-dano-para-choque-dianteira.jpg",
-            "img_impeifeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/risco-com-dano-para-choque-traseira_.jpg",
+            "img_imperfeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/risco-com-dano-para-choque-dianteira.jpg",
+            "img_imperfeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/risco-com-dano-para-choque-traseira_.jpg",
             "img_destaque01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/cambio-manual.jpg",
             "img_destaque02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/KaSe1.0/direcao-eletrica.jpg"     
         },
@@ -60,8 +60,8 @@
             "categoria": "Hatch",
             "cor": "Preto",
             "img_principal": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/OnixMPFILT1.0.webp" ,
-            "img_impeifeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/manchado-capo-dianteira.jpg",
-            "img_impeifeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/risco-com-dano-porta-de-lateral-esc.jpg",
+            "img_imperfeicao01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/manchado-capo-dianteira.jpg",
+            "img_imperfeicao02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/risco-com-dano-porta-de-lateral-esc.jpg",
             "img_destaque01": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/radio.jpg",
             "img_destaque02": "https://github.com/cybermaique/rest-api-cars-deploy-aws-ec2/blob/master/src/imagens/OnixMPFILT1.0/computador-de-bordo.jpg"
         }
