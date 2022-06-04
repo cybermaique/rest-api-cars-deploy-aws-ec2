@@ -1,13 +1,9 @@
 const express = require('express');
-
 const app = express();
+const carros = require("./src/carros/carros.json")
 
-app.get('/atualizou', (request, response) => {
-    return response.json({message: 'Atualizou hehehe!'});
-})
-
-app.get('/', (request, response) => {
-    return response.json({message: 'Server está rodando!!!'});
+app.get('/carros', (request, response) => {
+    return response.json(carros);
 })
 
 app.listen(3333)
